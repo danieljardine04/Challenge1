@@ -9,7 +9,7 @@ A website that offers help with website optimization.
 * CSS
 
 ## Website
-https://danieljardine04.github.io/Challenge1/
+https://danieljardine04.github.io/Challenge1
 
 ## Contribution
 Made with ❤️ by Daniel Jardine
