@@ -186,6 +186,8 @@ p {
 
 /* -- End Benefit Section --*/
 
+/* -- Start Footer Section -- */
+
 .footer {
     padding: 30px;
     clear: both;
@@ -196,3 +198,5 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
+/* -- End Footer Section -- */
